@@ -15,10 +15,15 @@
     font-size: 25px;
 }
 
+#Summary {
+  text-align: middle;
+  font-size: 25px;
+}
+
 h1 {
 font-size: 50px;
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 15px;
 }
