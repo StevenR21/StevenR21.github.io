@@ -11,12 +11,12 @@
   
 }
 
-#information {
+.information {
     text-align: middle;
     font-size: 25px;
 }
 
-#Summary {
+.Summary {
   text-align: middle;
   font-size: 25px;
 }
@@ -35,12 +35,12 @@ h3 {
   font-style: serif;
 }
 
-#Previous-experience {
+.Previous-experience {
   
   
 }
 
-#checklist {
+.checklist {
   font-style: serif;
   font-size: 30px;
 }
