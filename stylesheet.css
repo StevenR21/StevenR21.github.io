@@ -23,12 +23,16 @@
 
 h1 {
 font-size: 75px;
-  font-family: serif;
+  font-style: serif;
 }
 
 h2 {
   font-size: 30px;
-  font-family: verdana;
+  font-style: verdana;
+}
+
+h3 {
+  font-style: serif;
 }
 
 #Previous-experience {
