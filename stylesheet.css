@@ -13,13 +13,12 @@
 
 #body {
   
-  margin-top: 5px;
-  margin-left: 200px;
-  margin-right:200px;
+  margin-top: 15px;
+  margin-left: 400px;
+  margin-right:400px;
   
   padding: 5px 150px 10px 150px;
   border-radius: 15px;
-  background-color: #DCDCDC;
   text-align: middle;
   
 }
