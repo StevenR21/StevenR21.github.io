@@ -35,7 +35,7 @@ h3 {
   font-style: serif;
 }
 
-.Previous-experience {
+Previous-experience {
   margin-top: 10px;
   margin-left: 200px;
   margin-right:200px;
@@ -44,8 +44,6 @@ h3 {
   border-radius: 15px;
   background-color: #DCDCDC;
   text-align: center;
-
-  
 }
 
 .checklist {
